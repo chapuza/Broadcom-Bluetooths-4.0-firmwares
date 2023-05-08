@@ -3,7 +3,7 @@ Collection of Broadcom Bluetooths 4.0 firmwares taken from Microsoft Catalog Upd
 
 https://www.catalog.update.microsoft.com/Search.aspx?q=%27Broadcom+BCM20702+Bluetooth+4.0+USB+Device%27+USB%5cVID_0A5C%26PID_21E8%26REV_0112
 
-All those .cab packages contain 255 different firmware updates for Broadcom Bluetooth 4.0 devices.
+All those .cab packages contain 355 different firmware updates for Broadcom Bluetooth 4.0 devices.
 
 BCM20702A0_001.001.024.0156.0176.hex
 
